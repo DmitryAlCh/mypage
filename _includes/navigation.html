@@ -1,0 +1,13 @@
+<header class="vertical-container">
+  <nav class="horizontal-container">
+    {% for item in site.data.navigation %}
+        <div>
+          <h1>
+         <a href="{{ item.link }}">{{ item.name }}</a>
+          </h1>
+        </div>
+    {% endfor %}
+  </nav>
+</header>
+
+

@@ -1,0 +1,9 @@
+- name: linkedin
+  image-link: "assets/images/linkedin.svg"
+  description: "whatever"
+  link: "https://www.linkedin.com/in/dmitrijs-Čužmarjovs-113220129/"
+- name: github
+  image-link: "assets/images/github.png"
+  description: "whatever"
+  link: "https://github.com/DmitryAlCh"
+

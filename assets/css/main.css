@@ -1,0 +1,75 @@
+html, body { 
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: white;
+
+}
+h1 {
+  font-size: 1.6em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h2 {
+  font-size: 1.5em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h3 {
+  font-size: 1.4em;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+h4 {
+  font-size: 1.3em;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+h5 {
+  font-size: 1.2em;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+h6 {
+  font-size: 1.1em;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+body > footer {
+  position: sticky;
+  top: 100vh;
+}
+
+*.vertical-container {
+  margin: auto;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  min-height: 80px;
+  justify-content: center;
+}
+
+*.horizontal-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+*.horizontal-container-left {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+h5.category {
+ margin: 5px;
+ border-radius: 10px;
+ padding: 5px;
+}
+
+div.contact-pad {
+  max-height: 150px;
+  max-width: 150px;
+}
+

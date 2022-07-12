@@ -1,0 +1,7 @@
+- name: About
+  link: / 
+- name: People
+  link: /people 
+    #- name: Thoughts 
+    #link: /blog
+
