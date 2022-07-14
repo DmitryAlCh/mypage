@@ -1,19 +1,19 @@
 <footer>
   <div class="vertical-container">
     <div class="horizontal-container">
-      <div class="item">contacts</div>
+      <div class="item"><p>contacts</p></div>
     </div>
     <div class="horizontal-container">
       {% for item in site.data.contact %}
-        <div class="contact-pad" style="display: flex">
+        <div class="contact-pad">
           <a target="_blank" href="{{item.link | absolute_url}}">
-            <img src="{{item.image-link | relative_url}}" alt="logo {{item.name}}" style="width: 100%; height: 50px"/>
+            <img src="{{item.image-link | relative_url}}" alt="logo {{item.name}}"/>
           </a> 
         </div>
       {% endfor %}
     </div>
     <div class="horizontal-container">
-      <div class="item">built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a></div>
+      <div class="item"><p>built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a></p></div>
     </div>
   </div>
 </footer>

@@ -69,7 +69,20 @@ h5.category {
 }
 
 div.contact-pad {
-  max-height: 150px;
-  max-width: 150px;
+  flex-grow: 1;
+  flex-shrink: 1;
+  text-align: center;
+}
+div.item {
+  margin: auto;
+}
+p {
+  font-size: 1.2em;
+}
+div > a {
+  margin: auto;
+}
+div > a > img {
+  height: 50px;
 }
 
