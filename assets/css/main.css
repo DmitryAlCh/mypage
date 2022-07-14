@@ -6,7 +6,7 @@ html, body {
 
 }
 h1 {
-  font-size: 1.6em;
+  font-size: 2em;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -16,7 +16,7 @@ h2 {
   margin-bottom: 10px;
 }
 h3 {
-  font-size: 1.4em;
+  font-size: 1.17em;
   margin-top: 10px;
   margin-bottom: 0px;
 }
@@ -26,12 +26,12 @@ h4 {
   margin-bottom: 0px;
 }
 h5 {
-  font-size: 1.2em;
+  font-size: 0.83em;
   margin-top: 10px;
   margin-bottom: 0px;
 }
 h6 {
-  font-size: 1.1em;
+  font-size: 0.67em;
   margin-top: 10px;
   margin-bottom: 0px;
 }
