@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <img src="assets/images/me_2022_400_300.jpg" alt="me_2022"
-style="float: left; margin: 10px; width: 250px;"
+class="photo"
 />
 My name is Dmitry Chushzmarev, this is my page. Here I am maybe sharing stuff, like
 I got something to say.   
