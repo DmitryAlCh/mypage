@@ -1,7 +1,7 @@
 ---
 layout: default
 title: People
-long-title: "People who either influenced Me or a lot, or I admire"
+long-title: "People who either influenced Me a lot, or I admire"
 description: "Place where I give credit and respect to some people, or just 
 would like to share some kind words about them. Some people where 
 my employers, some colleagues, some friends. So it is all biased."
