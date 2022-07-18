@@ -39,8 +39,8 @@ Can call Him Martin the **CSS king**
 Solid Engineer, very straightforward and aim driven. Currently
 being a software architect at some place. Need a hand inside `C#` ecosystem, 
 can ping Him, or if You can't decide between 760 or A8.  
-Has a rare quality to tell customers, that maybe that deep and complete automation 
-of whatever would never even break even. Artur the honest Dev.
+Has a rare quality to honestly tell customers, that maybe too deep and complete automation 
+of whatever processes, would never even break even. Artur the **honest Dev.**
 
 ### David Alajanjan [Riddec OU](https://riddec.com)
 
