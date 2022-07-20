@@ -8,5 +8,5 @@ install all deps
 run locally:
 `bundle exec jekyll serve`
 ## Live
-* should be seen at: www.dmialch.xyz
+* should be seen at: https://dmialch.xyz
 
