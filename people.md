@@ -48,4 +48,8 @@ Young entrepreneur with fair attitude
 towards people. Witnessed good resolutions of sketchy situations. 
 Very light and fast in communication. Light, is a good summary for David.
 
+### <a name="anatoly-kiselov" />Anatoly Kiselov [facebook](https://www.facebook.com/nat.kiselovs)
+
+Martial arts (Kung-fu) coach. Can open unexpected sides of Your personality. Has super ability 
+to stay sharp under real stress, and boost confidence of people, with His calm voice. 
 
