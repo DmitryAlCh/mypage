@@ -3,7 +3,7 @@ layout: default
 title: Bragging
 long-title: "Bragging therapy"
 description: ""
-permalink: /brag
+permalink: /brag/
 ---
 
 It is considered bad to brag about yourself, from place and time where I a from.
