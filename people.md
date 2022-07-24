@@ -4,7 +4,8 @@ title: People
 long-title: "People who either influenced Me a lot, or I admire"
 description: "Place where I give credit and respect to some people, or just 
 would like to share some kind words about them. Some people where 
-my employers, some colleagues, some friends. So it is all biased."
+my employers, some colleagues, some friends. So it is all might be biased.
+Whether You want to reach out to Them, and don't know how. I can help, free of charge"
 
 permalink: /people/
 ---
@@ -52,4 +53,18 @@ Very light and fast in communication. Light, is a good summary for David.
 
 Martial arts (Kung-fu) coach. Can open unexpected sides of Your personality. Has super ability 
 to stay sharp under real stress, and boost confidence of people, with His calm voice. 
+
+### <a name="sergey-gromov" />Sergey Gromov [Ellat ltd](https://www.ellat.lv)
+
+This is how software developers used to be in old days. Silent, thoughtful, working long hours, 
+"console + notepad". Amounts of complexity multiplied by sometimes weird hostility of clients(tough industry), 
+Sergey can withstand is remarkable. We are "soy-devs" next to Him.
+
+### <a name="dmitry-mihejev" />Dmitry Mihejev [facebook](https://www.facebook.com/v.strelok)
+
+Man with diverse skill-set, starting from marketing to refrigerator servicing and photography.(seriously)  
+Does all sorts of photography, naked nature, naked girls and so on.  
+While having tons of commercial photography experience, decided not trade Art for coin, and does it 
+for the pure joy or whatever He finds there.
+
 
