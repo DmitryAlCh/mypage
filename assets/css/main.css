@@ -140,4 +140,12 @@ div > a > img {
     margin-bottom: 0px;
   }
 }
-
+ul.blog-entry {
+  list-style-type: none;
+}
+li > p {
+  font-size: unset;
+}
+li > h4 {
+  font-size: unset;
+}

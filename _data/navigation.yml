@@ -2,6 +2,6 @@
   link: / 
 - name: People
   link: /people 
-    #- name: Thoughts 
-    #link: /blog
+- name: Thoughts 
+  link: /blog
 
