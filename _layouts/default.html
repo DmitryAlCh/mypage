@@ -14,7 +14,7 @@
       <p>{{page.description}}</p>
     </div>
     <div class="vertical-container">
-      {% if page.title == "Thoughts" %}
+      {% if page.title == "Notes" %}
       <!--<h3>tag filtering should be here</h3>-->
       <ul class='blog-entry'>
         {% for post in site.posts %}
@@ -23,7 +23,6 @@
               <a href="{{ post.url }}">{{ post.title }}</a>
             </h4>
             {{post.excerpt}}
-            <a href="{{ post.url }}">Read more</a>
           </li>
         {% endfor %}
       </ul>
