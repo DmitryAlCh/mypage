@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Thoughts
-long-title: "Semi-random thoughts"
-description: "Should be abot Linux and common-sense"
-permalink: /blog
+title: Notes
+long-title: "Notes to myself"
+description: "Should be about Linux and common-sense"
+permalink: /notes
 ---
 
