@@ -27,7 +27,7 @@ in what He does day to day.
 Has a funny tradition, to do some important work on site on new years Eve. You 
 better have a screwdriver if You call yourself an engineer in proximity to Andrey.
 
-### <a name="martin-puutka" />Martin Puutka [mapuut.net](https://mapuut.net>)
+### <a name="martin-puutka" />Martin Puutka [mapuut.net](https://mapuut.net)
 
 New school undergraduate bachelor or engineer or whatever. Regardless
 of lacking official education a good self-educated person, and 
