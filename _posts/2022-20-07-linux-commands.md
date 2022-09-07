@@ -18,6 +18,9 @@ towards the typo.
 While typing `fc` will bring the text-editor of Your choice. Ofc have little 
 value if the editor is not VIM, since navigating text in `NANO`
 
+##### <a name="cd -">`cd -` navigate back to previous directory
+##### <a name="ctrl + l">`Ctrl + l` clear screen
+##### <a name="ctrl + r">`Ctrl + r` switch to command search mode 
 #### Neovim build from source
 `sudo make distclean` to remove old stuff
 `sudo make`
