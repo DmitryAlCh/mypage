@@ -11,7 +11,7 @@ class="photo"
 />
 My name is Dmitry Chushzmarev, this is my page. Here I am maybe sharing stuff, like
 I got something to say.   
-Born in Latvia, currently living in Montenegro with my family.  
+Born in Latvia, currently living in Bonisa & Herzegovina with my family.  
 Working as a software developer in on-line gambling company.([coolbet.com](http://www.coolbet.com)) 
 Have an engineer degree in Electronics.   
 And rather various experience in different fields. Mostly industrial automation 
