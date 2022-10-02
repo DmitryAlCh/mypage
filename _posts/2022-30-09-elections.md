@@ -50,3 +50,11 @@ it goes to parliament for discussion. So why not skip the parliament entirely? D
 Half measures exist also, and I was glad to see that one party challenged the rules, 
 by promising to reduce the count of deputies from 100 to 50. It breaks the ice on questioning 
 magic numbers. We are getting there.
+
+UPDATE  
+Elections just finished, and the exact party(they added word **new** to name) whose government
+held the population in lockdowns and masks for nearly 2 years, overwhelmingly won.
+Actually 20% of votes, the other 80% were scattered across 18 different parties.
+I thought that "lockdown" politicians destroyed their careers, and would never get elected again.
+Indeed poor understanding of political processes.
+
