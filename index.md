@@ -2,7 +2,7 @@
 layout: default
 title: About
 long-title: "About me"
-description: "A few words on Me, what You do, and think"
+description: "A few words on Me, what I do, and think"
 permalink: /
 ---
 
