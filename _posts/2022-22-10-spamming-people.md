@@ -51,6 +51,7 @@ for email in "${arr_csv[@]}"
 do
     echo "Sending emai to: $email"
     mutt -s "test subject" $email < message.html
+    sleep 5
 	((index++))
 done
 ```

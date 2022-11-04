@@ -6,8 +6,8 @@ categories: [linux]
 published: false
 ---
 
-Without Linux, computing and especially WEB would be very different and 
-most likely less affordable. Commands and appraches I use frequently are here.
+Without Linux, computing and especially WEB would evolve in different way and 
+most likely would be less affordable. Commands and approaches I use frequently are here.
 
 ### Helpful commands
 
@@ -16,7 +16,6 @@ Becomes really useful paired with <a name="grep">`grep`,
 that allow to narrow `history` output results.
 Whenever I remember only a part of command, that I have used (copy-pasted form internet, 
 cause this is what You do in Linux, find commands You barely understand and run with `sudo` prvilleges),
-I do:
 ```
 > history | grep tail
   638  [10/10 21:02:43] history | grep tail
@@ -38,7 +37,7 @@ When need to edit command before use, add `:p`:
 > !640:p 
 dpkg -l | tail -n +6 | grep -E 'linux-image-[0-9]+'
 ```
-Now it will become the last entered command, so can hit `UP` arrow to edit it.
+Now it will become the last entered command, so can hit `UP` or `fc` arrow to edit it.
 
 #### Purging old kernels.
 Sometimes You can't `sudo apt-get upgrade` anymore it gives some error.
@@ -66,7 +65,14 @@ sudo: apt-gEt: command not found
 Instead of hitting `UP` key, and key navigate to typo, `fc` would 
 bring in last command inside VIM, edit, and `:wq`.
 #### Setting VIM as default editor
+```
+echo "export EDITOR='vim'" >> ~/.bashrc
+```
 #### Tmux
+Whereas different terminal emulators might do have different shortcuts to 
+splitting the screen, or adding a tab, `tmux` being an app running inside any 
+terminal emulator, allows to remember those key-combos once.
+
 ##### <a name="cd -">`cd -` navigate back to previous directory
 ##### <a name="ctrl + l">`Ctrl + l` clear screen
 ##### <a name="ctrl + r">`Ctrl + r` switch to command search mode 
