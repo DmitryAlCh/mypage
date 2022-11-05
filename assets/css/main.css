@@ -57,6 +57,21 @@ div > a > img {
   height: 50px;
 }
 
+figure {
+    margin: auto;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+figure > img {
+    width: 100%;
+}
+figure > figcaption {
+    text-align: center;
+}
+
 @media (min-width: 600px) {
   .photo {
     display: block;
@@ -103,6 +118,9 @@ div > a > img {
   pre {
       font-size: 2em; 
   }
+  figcaption {
+        font-size: 2em;
+  }
 }
 @media ( min-width: 1000px) {
   .photo {
@@ -145,6 +163,9 @@ div > a > img {
     margin-bottom: 0px;
   }
   pre {
+      font-size: 1.2em;
+  }
+  figcaption {
       font-size: 1.2em;
   }
 }
