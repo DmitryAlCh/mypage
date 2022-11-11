@@ -11,7 +11,7 @@ most likely would be less affordable. Commands and approaches I use frequently a
 
 ### Helpful commands
 
-#### <a name="history">`history` - shows commands You entered
+#### <a name="history">`history` - history
 Becomes really useful paired with <a name="grep">`grep`,
 that allow to narrow `history` output results.
 Whenever I remember only a part of command, that I have used (copy-pasted form internet, 
@@ -68,6 +68,36 @@ bring in last command inside VIM, edit, and `:wq`.
 ```
 echo "export EDITOR='vim'" >> ~/.bashrc
 ```
+
+#### VIM 
+Using daily as main code-editor for typescript. Mostly using only basic commands.
+Enjoy the pattern: `action` + `in or around` + `symbol`.
+* `c` + `i` + `{` - change text in curly braces.
+* `y` + `i` + `[` - copy text in rectangular braces. 
+* `d` + `i` + `(` - delete text in usual braces.
+And same pattern modified: `action` + `on what exactly`.
+* `c` + `3w` - change 3 words
+* `d` + `7l` - change 7 letters
+Whole line actions:
+`dd`, `cc`, `yy` - delete whole line, change whole line, copy whole line, regardless 
+where cursor stands on line.
+Navigation inside the text:
+`gg` - move to top of file
+`G` - move to bottom
+Navigation between files(buffers):
+`ctrl` + `o` go to previous buffer
+`ctrl` + `i` got to next buffer
+Going into insert mode for code is usually:
+`Shift` + `o` - above current line
+`o` - below current line
+
+When I am in doubt, just do `v` - visual select before the action:
+`visually select stuff in curly braces` = `v` + `i` + `{`.
+When selection is right, proceed with action: `d`, `c`, etc.
+Aside from basic moves (`j`, `k`) that is enough to get Me trough the day.
+Vim is a rabbit whole in a way. There are multiple to do an operation. Generally 
+less keystrokes approach should win.
+
 #### Tmux
 Whereas different terminal emulators might do have different shortcuts to 
 splitting the screen, or adding a tab, `tmux` being an app running inside any 
