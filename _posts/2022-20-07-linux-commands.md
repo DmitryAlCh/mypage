@@ -3,11 +3,11 @@ layout: post
 title:  "Linux commands"
 date:   2022-05-30 18:17:11 +0200
 categories: [linux]
-published: false
+published: true
 ---
 
 Without Linux, computing and especially WEB would evolve in different way and 
-most likely would be less affordable. Commands and approaches I use frequently are here.
+most likely would be less affordable. Summary of commands, I use frequently.
 
 ### Helpful commands
 
@@ -15,7 +15,8 @@ most likely would be less affordable. Commands and approaches I use frequently a
 Becomes really useful paired with <a name="grep">`grep`,
 that allow to narrow `history` output results.
 Whenever I remember only a part of command, that I have used (copy-pasted form internet, 
-cause this is what You do in Linux, find commands You barely understand and run with `sudo` prvilleges),
+cause this is what You do in Linux, find commands You barely understand and run with `sudo` privileges),
+just add the known part after `grep`:
 ```
 > history | grep tail
   638  [10/10 21:02:43] history | grep tail
@@ -53,8 +54,8 @@ Filesystem     Type  Size  Used Avail Use% Mounted on
 What I use from guide:
 ```
 dpkg -l | tail -n +6 | grep -E 'linux-image-[0-9]+'
-sudo update-initramfs -d -k old-kerenel-name
-sudo dpkg --purge old-kerenel-name
+sudo update-initramfs -d -k old-kernel-name
+sudo dpkg --purge old-kernel-name
 ```
 
 #### <a name="fc">`fc` - open last command in editor
@@ -73,6 +74,7 @@ echo "export EDITOR='vim'" >> ~/.bashrc
 ```
 
 #### <a name="VIM">VIM 
+Why? No need to ever touch mouse, in combination with `Tmux` becomes a super power.
 Using daily as main code-editor for typescript. Mostly using only basic commands.
 Enjoy the pattern: `action` + `in or around` + `symbol`.
 * `c` + `i` + `{` - change text in curly braces.
@@ -106,20 +108,26 @@ Vim is a rabbit whole in a way. There are multiple to do an operation. Generally
 less keystrokes approach should win.
 
 Full config includes plugins also.
-* `NerdTREE` - absolute must have, as it gives project tree view on the left
-* `GruvBox` - colorsheme.
+Would emphasize `NerdTREE` as an absolute must have, as it gives project tree view on the left,
+with easy file operations context menu.
+<p align="center">
+    <img alt="nerdree m menu" src="{{site.base_url}}/assets/images/nerdtreemenu.png" />
+</p>
 
-There are 10 more in my [config](https://github.com/DmitryAlCh/dotfiles/tree/main/nvim), 
-they should be doing synatx highlighting, autocompletion and fuzzy search.
 
-#### Tmux
+There are 10 more plugins in my [config](https://github.com/DmitryAlCh/dotfiles/tree/main/nvim), 
+they should be doing syntax highlighting, auto completion and fuzzy search.
+
+
+#### <a name="tmux">Tmux
 Whereas different terminal emulators might do have different shortcuts to 
 splitting the screen, or adding a tab, `tmux` being an app running inside any 
-terminal emulator, allows to remember those key-combos once.
+terminal emulator, allows to remember those key-combos once. (no mouse again)
+Great cheat sheet found here: [https://tmuxcheatsheet.com/](https://tmuxcheatsheet.com/)
+An experience changer -> rebinding `ctrl` + `b` to `ctrl` + `a`. 
+My [config](https://github.com/DmitryAlCh/dotfiles/blob/main/tmux/tmux.conf).
+Great supplement to VIM.
 
-##### <a name="cd -">`cd -` navigate back to previous directory
-##### <a name="ctrl + l">`Ctrl + l` clear screen
-##### <a name="ctrl + r">`Ctrl + r` switch to command search mode 
 #### Neovim build from source
 `sudo make distclean` to remove old stuff
 `sudo make`
