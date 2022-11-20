@@ -16,9 +16,13 @@ Old school PhD and Engineer, with rare abilities to stay calm
 under stressful conditions. It is hard to over estimate the 
 amount true progress Viktor (with his company) brought to forever
 lagging industries in Latvia.  
-> "Do not let these Big headers like Wolrd Bank, EU cohesion funds etc fool You,
+> "Do not let these Big headers like World Bank, EU cohesion funds etc fool You,
 > there are 2 bums with a shovel on site"  
 > -- <cite>Sad but true summary on building industry by Viktor</cite>
+
+> "When You come to waste water treatment plant and it smells like sh*t
+> it means people eat, but when it smells like shower gel, they still take baths"  
+> -- <cite>A simple way to measure GDP, by Viktor</cite>
 
 ### <a name="andrey-kazakov" />Andrey Kazakov [Ellat ltd](https://www.ellat.lv)
 
