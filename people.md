@@ -20,7 +20,7 @@ lagging industries in Latvia.
 > there are 2 bums with a shovel on site"  
 > -- <cite>Sad but true summary on building industry by Viktor</cite>
 
-> "When You come to waste water treatment plant and it smells like sh*t
+> "When You come to waste water treatment plant and it smells like sh*t - 
 > it means people eat, but when it smells like shower gel, they still take baths"  
 > -- <cite>A simple way to measure GDP, by Viktor</cite>
 
