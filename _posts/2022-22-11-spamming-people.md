@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Poorman's email marketing"
-date:   2022-10-22 18:17:11 +0200
+date:   2022-11-22 08:17:11 +0200
 categories: [linux]
-last_edit: 2022-10-22
+last_edit: 2022-11-22
 published: true
 ---
 
@@ -72,7 +72,7 @@ Becomes a `HTML` like:
 Saving it to `message.html`. (Yes, font-size looks odd)
 
 ### The loop
-Need a script to read file with recipients `test-list.csv`, keeping it simple, just one tab, 
+Need a script to read file with recipients `test-list.csv`. Keeping it simple, just one tab, 
 no header row, and no empty lines. For every line, script would call `mutt` with 
 correct arguments.
 Almost ready script existed on the [internet](https://www.baeldung.com/linux/csv-parsing#parsing-csv-file-into-a-bash-array), 
