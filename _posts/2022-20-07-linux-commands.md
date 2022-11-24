@@ -3,7 +3,7 @@ layout: post
 title:  "Linux life"
 date:   2022-05-30 18:17:11 +0200
 categories: [linux]
-last_edit: 2022-11-22
+last_edit: 2022-11-24
 published: true
 ---
 
@@ -104,6 +104,9 @@ Navigation between files(buffers):
 Going into insert mode for code is usually:
 * `Shift` + `o` - above current line
 * `o` - below current line
+
+Copy using system clipboard (from Vim to any other program): 
+* `"` + `*` + 'y' - copies visually select text to clipboard
 
 Aside from basic moves (`j`, `k`) that is enough to get Me trough the day.
 Vim is a rabbit whole in a way. There are multiple to do an operation. Generally 
