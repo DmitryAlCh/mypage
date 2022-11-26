@@ -82,7 +82,7 @@ Enjoy the pattern: `action` + `in or around` + `symbol`.
 * `c` + `i` + `{` - change text in curly braces.
 * `y` + `i` + `[` - copy text in rectangular braces. 
 * `d` + `i` + `(` - delete text in usual braces.
-* `v` + `a` + `{` - visually select all around curly braces.  
+* `v` + `a` + `{` - visually select all around curly braces.(`gv` to select same again)  
 
 And same pattern modified: `action` + `on what exactly`.
 * `c` + `3w` - change 3 words
