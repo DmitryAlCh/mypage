@@ -2,7 +2,6 @@ html, body {
     height: 100%;
     width: 100%;
     margin: 0;
-    background-color: orange;
 }
 body > footer {
     position: sticky;
@@ -134,9 +133,6 @@ pre code {
     color: grey;
 }
 @media (max-width: 1000px) {
-    body {
-        background-color: cyan;
-    }
     .vertical-container {
         padding-left: 20px;
         padding-right: 20px;
