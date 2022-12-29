@@ -77,7 +77,7 @@ echo "export EDITOR='vim'" >> ~/.bashrc
 
 #### <a name="single dash vs double dash">`- or --` In your bash commands
 `-` - single letter parameters, even when You pass many together.
-`ls -alt` parameters here will be treated as `a`, `l`, `t`.
+`ls -alt` parameters here will be treated as `a`, `l`, `t`.  
 `--` - named parameters.
 `apt-get autoremove --purge` - paramter will be treated as `purge`
 
