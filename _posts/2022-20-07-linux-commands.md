@@ -75,6 +75,12 @@ Using `fc` command makes only when VIM is Your editor.
 echo "export EDITOR='vim'" >> ~/.bashrc
 ```
 
+#### <a name="single dash vs double dash">`- or --` In your bash commands
+`-` - single letter parameters, even when You pass many together.
+`ls -alt` parameters here will be treated as `a`, `l`, `t`.
+`--` - named parameters.
+`apt-get autoremove --purge` - paramter will be treated as `purge`
+
 ### <a name="VIM">`VIM` getting through the day 
 Why? No need to ever touch mouse, in combination with `Tmux` becomes a super power.
 Using daily as main code-editor for typescript. Mostly using only basic commands.
