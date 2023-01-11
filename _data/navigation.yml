@@ -1,7 +1,7 @@
 - name: About
   link: / 
 - name: People
-  link: /people 
+  link: /people/ 
 - name: Notes 
-  link: /notes.html
+  link: /notes/
 
