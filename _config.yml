@@ -28,6 +28,7 @@ url: "https://dmialch.xyz" # the base hostname & protocol for your site, e.g. ht
 
 # Build settings
 # theme: minima
+markdown: kramdown
 permalink: /:categories/:title/ 
 plugins:
   - jekyll-feed
