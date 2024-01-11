@@ -3,8 +3,8 @@ layout: default
 title: People
 long-title: "People who either influenced Me a lot, or I admire"
 description: "Place where I give credit and respect to some people, or just 
-would like to share some kind words about them. Some people where 
-my employers, some colleagues, some friends. So it is all might be biased.
+would like to share some kind words about them. Some people were 
+my employers, some colleagues, some friends. So it all might be biased.
 Whether You want to reach out to Them, and don't know how. I can help, free of charge"
 
 permalink: /people/
@@ -13,7 +13,7 @@ permalink: /people/
 ### <a name="viktor-vahitov" />Viktor Vahitov [Ellat ltd](https://www.ellat.lv)
 
 Old school PhD and Engineer, with rare abilities to stay calm 
-under stressful conditions. It is hard to over estimate the 
+under stressful conditions. It is hard to overestimate the 
 amount true progress Viktor (with his company) brought to forever
 lagging industries in Latvia.  
 > "Do not let these Big headers like World Bank, EU cohesion funds etc fool You,
@@ -51,16 +51,16 @@ of whatever processes, would never even break even. Artur the **honest Dev.**
 
 Young entrepreneur with fair attitude 
 towards people. Witnessed good resolutions of sketchy situations. 
-Very light and fast in communication. Light, is a good summary for David.
+Very light and fast in communication. Light is a good summary for David.
 
 ### <a name="anatoly-kiselov" />Anatoly Kiselov [facebook](https://www.facebook.com/nat.kiselovs)
 
 Martial arts (Kung-fu) coach. Can open unexpected sides of Your personality. Has super ability 
-to stay sharp under real stress, and boost confidence of people, with His calm voice. 
+to stay sharp under real stress, and boost the confidence of people, with His calm voice. 
 
 ### <a name="sergey-gromov" />Sergey Gromov [Ellat ltd](https://www.ellat.lv)
 
-This is how software developers used to be in old days. Silent, thoughtful, working long hours, 
+This is how software developers used to be in the old days. Silent, thoughtful, working long hours, 
 "console + notepad". Amounts of complexity multiplied by sometimes weird hostility of clients(tough industry), 
 Sergey can withstand is remarkable. We are "soy-devs" next to Him.
 
