@@ -157,3 +157,12 @@ An experience changer -> rebinding `ctrl` + `b` to `ctrl` + `a`.
 My [config](https://github.com/DmitryAlCh/dotfiles/blob/main/tmux/tmux.conf).  
 Great supplement to VIM.
 
+### <a name="lpr"> Printing file from terminal
+`lpr filename.txt` will send the document to default system printer. To see printers available:
+```
+> lpstat -p -d
+printer Canon_TR4600_series is idle.  enabled since Wed 19 Feb 2025 04:36:07 PM EET
+system default destination: Canon_TR4600_series
+```
+If nothing is set as `system default destination`, throw in:
+`lpoptions -d Canon_TR4600_series`, by the name of printer seen earlier.
